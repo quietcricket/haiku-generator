@@ -1,0 +1,4 @@
+*.zip
+layer_files 
+lambda_layer
+__pychache__
